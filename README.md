@@ -10,4 +10,11 @@ Nesse projeto são apresentadas algumas medidas de redes complexas:
   
 - **Proximidade (Closeness):** mede o quão próximo um vértice está dos demais nós da rede, em outras palavras, está medida expressa o inverso da distância geodésica média de um ponto em relação aos demais (CARNEIRO, 2016).
   
-- **Intermedialidade (Betweenness):** a intermedialidade, também conhecida como betweenness é uma medida de centralidade de vértices. Tecnicamente, quanto maior o valor de Intermedialidade de um vértice, maior é o tráfego de informações e acesso do mesmo (MARQUES, 2015).
+- **Intermedialidade (Betweenness):** a intermedialidade, também conhecida como betweenness é uma medida de centralidade de vértices. Tecnicamente, quanto maior o valor de Intermedialidade de um vértice, maior é o tráfego de informações e acesso do mesmo (BILZÃ, 2015).
+
+### Referências
+- NEWMAN, M. E. The structure and function of complex networks. SIAM review, SIAM, v. 45, n. 2, p. 167–256, 2003.
+- CARNEIRO, M. G. Redes complexas para classificação de dados via conformidade de padrão, caracterização de importância e otimização estrutural. Tese (Doutorado) — Instituto de Ciências Matemáticas e de Computação - USP, São Carlos, 2016.
+- BORGWARDT, K. M.; KRIEGEL, H.-P. Shortest-path kernels on graphs. In: IEEE. Fifth IEEE international conference on data mining (ICDM’05). [S.l.], 2005. p. 8–pp.
+- VERA, A. M. Propriedades de redes complexas de telecomunicações. Dissertação (Mestrado) — Escola de Engenharia de São Carlos, Agosto 2011.
+- BILZã, M. d. A. Rotulação de indivíduos representativos no aprendizado semissupervisionado baseado em redes: caracterização, realce, ganho e filosofia. Tese (Doutorado) — Instituto de Ciências Matemáticas e de Computação - USP, São Carlos, 2015.
